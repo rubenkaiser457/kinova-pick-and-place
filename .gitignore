@@ -1,0 +1,11 @@
+# MATLAB
+*.asv
+*.mat
+slprj/
+
+# Large generated video (the GIF is committed for the README)
+media/*.mp4
+
+# OS
+.DS_Store
+Thumbs.db
